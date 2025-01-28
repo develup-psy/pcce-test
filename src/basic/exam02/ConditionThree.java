@@ -27,6 +27,7 @@ public class ConditionThree {
         for(int i=0; i<count; i++){
             result *= (pow(a,i) + pow(b,i) + pow(c,i));
         }
+
         return result;
     }
     static int pow(int base, int exponent){
