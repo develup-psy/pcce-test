@@ -1,4 +1,4 @@
-package basic;
+package basic.exam01;
 
 import java.lang.reflect.Array;
 
